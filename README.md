@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Enthousiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT student</a>
+<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
