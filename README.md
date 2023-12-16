@@ -5,5 +5,4 @@
 
 
 
-<h2>👨‍💻 School Projects:</h2>
-
+<h2>👨‍🎓 School Projects:</h2>
