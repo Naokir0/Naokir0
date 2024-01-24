@@ -4,3 +4,5 @@
 
 
 <h2>👨‍🎓 School Projects:</h2>
+-> <a href="https://github.com/Naokir0/Bataille_Navale_C">BATTLESHIPS_SIMULATION</a>
+
