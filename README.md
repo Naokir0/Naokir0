@@ -1,4 +1,4 @@
-# 🔐 [Your Name] - Cybersecurity Enthusiast & Aspiring Developer 🛡️
+# 🔐 Ahmed Berrada - Cybersecurity Enthusiast & Aspiring Developer 🛡️
 
 Welcome to my GitHub portfolio! Here, you'll find projects that reflect my passion for cybersecurity, programming, and solving complex challenges. Dive in to explore my journey! 🚀
 
@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here, you'll find projects that reflect my passi
 
 ## 🌐 **About Me**
 
-Hello there! 👋 I'm **[Your Name]**, a college student and cybersecurity enthusiast who enjoys exploring the world of ethical hacking, securing systems, and building reliable software solutions. My mission is to combine technical expertise with creativity to make the digital world safer.
+Hello there! 👋 I'm **Ahmed**, a college student and cybersecurity enthusiast who enjoys exploring the world of ethical hacking, securing systems, and building reliable software solutions. My mission is to combine technical expertise with creativity to make the digital world safer.
 
 - 🔭 I’m currently working on: **[Your Current Project, e.g., Penetration Testing Labs, or Web Security Tools]**
 - 🌱 I’m learning: **[Your Focus, e.g., Python for Cybersecurity, OWASP Top 10, or Cloud Security]**
