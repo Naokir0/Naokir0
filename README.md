@@ -61,19 +61,12 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-## 📚 **Certifications**
-
-- 🏅 **[Certification Name, e.g., CompTIA Security+](#)**
-- 🏅 **[Certification Name, e.g., TryHackMe Jr Penetration Tester](#)**
-
----
-
 ## 📫 **Contact Me**
 
 Let’s connect! I’d love to collaborate or chat about cybersecurity and tech:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](#)
+- **Email**: [aberrada@et.esiea.fr](mailto:aberrada@et.esiea.fr)
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-berrada-293015257/](#)
 - **TryHackMe Profile**: [tryhackme.com/p/yourusername](#)
 - **Hack The Box**: [hackthebox.com/invite/yourprofile](#)
 
