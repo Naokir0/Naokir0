@@ -6,12 +6,12 @@ Welcome to my GitHub portfolio! Here, you'll find projects that reflect my passi
 
 ## 🌐 **About Me**
 
-Hello there! 👋 I'm **Ahmed**, a college student and cybersecurity enthusiast who enjoys exploring the world of ethical hacking, securing systems, and building reliable software solutions. My mission is to combine technical expertise with creativity to make the digital world safer.
+Hello there! 👋 I'm **Ahmed**, a college student and cybersecurity enthusiast who enjoys exploring the world of ethical hacking, securing systems, and building reliable software solutions. My mission is to combine technical expertise with creativity to make the digital world safer and better.
 
-- 🔭 I’m currently working on: **[Your Current Project, e.g., Penetration Testing Labs, or Web Security Tools]**
-- 🌱 I’m learning: **[Your Focus, e.g., Python for Cybersecurity, OWASP Top 10, or Cloud Security]**
-- 💬 Ask me about: **Cybersecurity, Networking, Web Development**
-- ⚡ Fun fact: **[Something fun about yourself, e.g., "I can solve a Rubik’s Cube in under a minute!"]**
+- 🔭 I’m currently working on: **Building, securing and improving a local data center on premise**
+- 🌱 I’m learning: **Everything about Network security, Management tools for companies, Monitoring vulnerabilities and threats**
+- 💬 Ask me about: **Cybersecurity, Networking, Web Development, Data (I'm only getting started CHILL)**
+- ⚡ Fun fact: **Any device connected to the internet is by DEFAULT vulnerable <3 (Sleep well)**
 
 ---
 
@@ -19,11 +19,11 @@ Hello there! 👋 I'm **Ahmed**, a college student and cybersecurity enthusiast 
 
 Here’s a snapshot of the technologies and tools I work with:
 
-- **Programming Languages**: Python, Bash, C
-- **Cybersecurity Tools**: Wireshark, Burp Suite, Metasploit, nmap
-- **Web Technologies**: HTML, CSS, JavaScript
-- **Operating Systems**: Linux (Ubuntu, Kali), Windows
-- **Platforms**: GitHub, TryHackMe, Hack The Box
+- **Programming Languages**: Python, Bash, C, Java, Go
+- **Cybersecurity Tools**: Wireshark, Burp Suite, Metasploit, nmap, Fuff ...
+- **Web Technologies**: JavaScript, NodeJS ...
+- **Operating Systems**: Linux (Ubuntu, Kali, Arch...), Windows
+- **Platforms**: GitHub, TryHackMe, Hack The Box, Roadmap.sh
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,git" alt="Tech Stack" />
